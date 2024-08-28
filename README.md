@@ -10,8 +10,7 @@ Sou estudante de Ciência da Computação na UESB (Universidade Estadual do Sudo
 
 ## Tecnologias que Utilizo
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" style="display:inline-block; margin-right:10px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50" style="display:inline-block; margin-right:10px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" style="display:inline-block; margin-right:10px"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50" style="display:inline-block; margin-right:10px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="display:inline-block; margin-right:10px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android" width="50" height="50" style="display:inline-block; margin-right:10px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50" style="display:inline-block"/>
