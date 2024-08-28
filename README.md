@@ -10,12 +10,11 @@ Sou estudante de Ciência da Computação na UESB (Universidade Estadual do Sudo
 
 ## Tecnologias que Utilizo
 
-![Java]((https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg))
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg))
-![JavaScript]((https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg))
-![Android]((https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg))
-![Visual Studio Code]((https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg))
-![intellij]((https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg))
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" width="50" height="50"/>
+<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" width="50" height="50"/>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" width="50" height="50"/>
 
 --> E-mail para contato: larasps1310@gmail.com
 
