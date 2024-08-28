@@ -10,12 +10,12 @@ Sou estudante de Ciência da Computação na UESB (Universidade Estadual do Sudo
 
 ## Tecnologias que Utilizo
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Java]((https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg))
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg))
+![JavaScript]((https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg))
+![Android]((https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg))
+![Visual Studio Code]((https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg))
+![intellij]((https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg))
 
 --> E-mail para contato: larasps1310@gmail.com
 
