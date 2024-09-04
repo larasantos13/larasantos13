@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sou estudante de Ciência da Computação na UESB (Universidade Estadual do Sudoeste da Bahia), em Vitória da Conquista. Atualmente, faço parte do grupo de pesquisa PETI (Programa de Educação Tutorial Institucional) da própria instituição, onde estou aprimorando minhas habilidades em desenvolvimento web, desenvolvimento desktop, eletrônica e documentação de projetos e softwares.
+  Sou estudante de Ciência da Computação na UESB, com uma formação sólida em várias áreas da tecnologia. Tenho experiência em desenvolvimento web, onde crio aplicações dinâmicas e responsivas, e em desenvolvimento desktop, focado na criação de software com interfaces de usuário intuitivas. Além disso, trabalho com eletrônica, desenvolvendo e integrando circuitos com sistemas computacionais. Minhas habilidades também incluem a documentação de projetos e softwares, garantindo que a documentação técnica seja clara, organizada e acessível. Já participei de pesquisas na área de desenvolvimento mobile, onde refinei minhas competências em criar soluções para dispositivos móveis. Com forte interesse em redes neurais convolucionais e segurança cibernética, tenho explorado o uso de machine learning para resolver problemas complexos, especialmente em projetos de classificação binária.
 
 ✨ Encantada pela Programação, principalmente back-end, pela Análise de Dados e Inteligência Artificial.
 
@@ -17,5 +17,6 @@ Sou estudante de Ciência da Computação na UESB (Universidade Estadual do Sudo
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="50" height="50" style="display:inline-block"/>
 
 
---> E-mail para contato: larasps1310@gmail.com
+--> E-mail para contato: lara.sps.dev@gmail.com
+
 
