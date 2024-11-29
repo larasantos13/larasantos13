@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  Sou estudante de Ciência da Computação na UESB e tenho experiência em desenvolvimento web, onde crio aplicações dinâmicas e responsivas, e em desenvolvimento desktop, focado na criação de software com interfaces de usuário intuitivas. Além disso, trabalho com eletrônica, desenvolvendo e integrando circuitos com sistemas computacionais.
+Graduanda em Ciência da Computação na UESB e tenho experiência em desenvolvimento web, onde crio aplicações dinâmicas e responsivas, e em desenvolvimento desktop, focado na criação de software com interfaces de usuário intuitivas. Além disso, trabalho com eletrônica, desenvolvendo e integrando circuitos com sistemas computacionais.
   Tenho habilidades em documentação de projetos e softwares, assegurando que a documentação técnica seja clara, organizada e acessível. Participei de pesquisas na área de desenvolvimento mobile, onde aperfeiçoei minha capacidade de criar soluções para dispositivos móveis. 
  Pior fim, Tenho interesse nas áreas de redes neurais e de segurança cibernética e venho aplicando machine learning para resolver problemas complexos, especialmente em projetos focados em classificação.
   
